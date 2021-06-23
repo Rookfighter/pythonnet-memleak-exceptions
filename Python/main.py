@@ -1,5 +1,4 @@
 import os
-import sys
 import __main__
 
 import clr
